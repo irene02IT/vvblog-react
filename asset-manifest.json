@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vvblog-react/static/css/main.a3d09237.css",
+    "main.js": "/vvblog-react/static/js/main.b1d4c680.js",
+    "static/js/787.343ec9d4.chunk.js": "/vvblog-react/static/js/787.343ec9d4.chunk.js",
+    "static/media/home-bg.jpg": "/vvblog-react/static/media/home-bg.d7fc1e246f39ce3c0d57.jpg",
+    "static/media/about-bg.jpg": "/vvblog-react/static/media/about-bg.27e81808a2025c7e6caf.jpg",
+    "static/media/contact-bg.jpg": "/vvblog-react/static/media/contact-bg.beb44d287dc8c714dcbc.jpg",
+    "index.html": "/vvblog-react/index.html",
+    "main.a3d09237.css.map": "/vvblog-react/static/css/main.a3d09237.css.map",
+    "main.b1d4c680.js.map": "/vvblog-react/static/js/main.b1d4c680.js.map",
+    "787.343ec9d4.chunk.js.map": "/vvblog-react/static/js/787.343ec9d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3d09237.css",
+    "static/js/main.b1d4c680.js"
+  ]
+}
