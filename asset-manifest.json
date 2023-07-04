@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/price-hacker/static/css/main.e89271c0.css",
-    "main.js": "/price-hacker/static/js/main.d4f71b68.js",
-    "static/js/787.227f1831.chunk.js": "/price-hacker/static/js/787.227f1831.chunk.js",
-    "index.html": "/price-hacker/index.html",
-    "main.e89271c0.css.map": "/price-hacker/static/css/main.e89271c0.css.map",
-    "main.d4f71b68.js.map": "/price-hacker/static/js/main.d4f71b68.js.map",
-    "787.227f1831.chunk.js.map": "/price-hacker/static/js/787.227f1831.chunk.js.map"
+    "main.css": "/vvblog-react/static/css/main.a3d09237.css",
+    "main.js": "/vvblog-react/static/js/main.bb604183.js",
+    "static/js/787.343ec9d4.chunk.js": "/vvblog-react/static/js/787.343ec9d4.chunk.js",
+    "static/media/home-bg.jpg": "/vvblog-react/static/media/home-bg.d7fc1e246f39ce3c0d57.jpg",
+    "static/media/post-bg.jpg": "/vvblog-react/static/media/post-bg.9cfa68ef7373c6c402ac.jpg",
+    "static/media/about-bg.jpg": "/vvblog-react/static/media/about-bg.27e81808a2025c7e6caf.jpg",
+    "static/media/contact-bg.jpg": "/vvblog-react/static/media/contact-bg.beb44d287dc8c714dcbc.jpg",
+    "index.html": "/vvblog-react/index.html",
+    "main.a3d09237.css.map": "/vvblog-react/static/css/main.a3d09237.css.map",
+    "main.bb604183.js.map": "/vvblog-react/static/js/main.bb604183.js.map",
+    "787.343ec9d4.chunk.js.map": "/vvblog-react/static/js/787.343ec9d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e89271c0.css",
-    "static/js/main.d4f71b68.js"
+    "static/css/main.a3d09237.css",
+    "static/js/main.bb604183.js"
   ]
 }
