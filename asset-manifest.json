@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/vvblog-react/static/css/main.a3d09237.css",
-    "main.js": "/vvblog-react/static/js/main.bb604183.js",
+    "main.css": "/vvblog-react/static/css/main.093cd7f4.css",
+    "main.js": "/vvblog-react/static/js/main.992bf6f6.js",
     "static/js/787.343ec9d4.chunk.js": "/vvblog-react/static/js/787.343ec9d4.chunk.js",
     "static/media/home-bg.jpg": "/vvblog-react/static/media/home-bg.d7fc1e246f39ce3c0d57.jpg",
     "static/media/post-bg.jpg": "/vvblog-react/static/media/post-bg.9cfa68ef7373c6c402ac.jpg",
     "static/media/about-bg.jpg": "/vvblog-react/static/media/about-bg.27e81808a2025c7e6caf.jpg",
     "static/media/contact-bg.jpg": "/vvblog-react/static/media/contact-bg.beb44d287dc8c714dcbc.jpg",
     "index.html": "/vvblog-react/index.html",
-    "main.a3d09237.css.map": "/vvblog-react/static/css/main.a3d09237.css.map",
-    "main.bb604183.js.map": "/vvblog-react/static/js/main.bb604183.js.map",
+    "main.093cd7f4.css.map": "/vvblog-react/static/css/main.093cd7f4.css.map",
+    "main.992bf6f6.js.map": "/vvblog-react/static/js/main.992bf6f6.js.map",
     "787.343ec9d4.chunk.js.map": "/vvblog-react/static/js/787.343ec9d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3d09237.css",
-    "static/js/main.bb604183.js"
+    "static/css/main.093cd7f4.css",
+    "static/js/main.992bf6f6.js"
   ]
 }
